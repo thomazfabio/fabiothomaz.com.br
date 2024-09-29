@@ -1,2 +1,2 @@
 # fabiothomaz.com.br
-repositoria para a criação do meu site pessoal (em construção)
+repositorio para a criação do meu site pessoal (em construção)
